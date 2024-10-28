@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ukujiemi.github.io/sitemap_index.ukujiemi
